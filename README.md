@@ -223,22 +223,3 @@ Compress-Archive -Path "bin/Release/net9.0/win-x64/publish/*" -DestinationPath "
 ##  الترخيص
 
 هذا المشروع مرخص تحت [MIT License](LICENSE) - انظر ملف [LICENSE](LICENSE) للتفاصيل.
-
-##  فريق التطوير
-
-- **المطور الرئيسي**: [اسمك](https://github.com/your-username)
-- **المستشار الطبي**: د. شريف الضماد
-
-##  الشكر والتقدير
-
-- فريق .NET لـ Windows Forms الرائع
-- مجتمع SQLite للأداء المتميز
-- جميع الأطباء الذين قدموا ملاحظات قيمة
-
----
-
-<div align="center">
-
-** إذا أعجبك هذا المشروع، لا تنسى إعطائه نجمة!**
-
-</div>
