@@ -220,11 +220,11 @@ Compress-Archive -Path "bin/Release/net9.0/win-x64/publish/*" -DestinationPath "
 4. Push إلى الفرع: `git push origin feature/AmazingFeature`
 5. فتح Pull Request
 
-## 📄 الترخيص
+##  الترخيص
 
 هذا المشروع مرخص تحت [MIT License](LICENSE) - انظر ملف [LICENSE](LICENSE) للتفاصيل.
 
-## 👥 فريق التطوير
+##  فريق التطوير
 
 - **المطور الرئيسي**: [اسمك](https://github.com/your-username)
 - **المستشار الطبي**: د. شريف الضماد
